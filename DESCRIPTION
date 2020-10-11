@@ -1,13 +1,18 @@
 Package: osemnR
-Title: What the Package Does (One Line, Title Case)
+Title: osemnR is a workflow for data science projects using R.
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Akil",
+           family = "Elkamel",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "akil.elkamel@gmail.com",
+           comment = c(ORCID = "0000-0002-2101-8117"))
+Description: OSEMN stands for Obtain, Scrub, Explore, Model, and iNterpret and is pronounced as "awesome".
+ * O - Obtain: obtaining data from diffrent and multiple sources with various formats.
+ * S - Scrub: is the process of data cleaning.
+ * E - Explore: explore the data visually and statistically.
+ * M - Model: data modeling
+ * N - iNterpret: interpreting the results and insights comcluded from the modeling step.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
